@@ -1,5 +1,4 @@
 # 🚗 Car Price Prediction
-EDA
 
 A machine learning project focused on predicting the prices of used cars based on technical specifications, performance metrics, and seller characteristics. The project combines web scraping, exploratory data analysis, and supervised regression techniques to model real-world pricing trends in the Romanian second-hand car market.
 
